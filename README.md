@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">This is Pratham Manjrekar . Your Friendly, Maybe Neighbourhood Web-Developer !!</p>
+<p align="center">This is Pratham Manjrekar . Your Friendly, Maybe Neighbourhood Web-Developer !!</p>
 
 ###
 
