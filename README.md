@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/a3/5f/55/a35f559412df6a4bfce6c55e58af37e5.jpg"  />
+</div>
+
+###
+
 <p align="left">This is Pratham Manjrekar . Your Friendly, Maybe Neighbourhood Web-Developer !!</p>
 
 ###
@@ -37,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PraManGit17&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="116" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PraManGit17&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
