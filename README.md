@@ -1,4 +1,4 @@
-<h2 align="left">Hello There !</h2>
+<h1 align="left">Hello There !</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">This is Pratham Manjrekar . Your Friendly, Maybe Neighbourhood Web-Developer !!</p>
+<h4 align="center">This is Pratham Manjrekar . Your Friendly, Maybe Neighbourhood Web-Developer !!</h4>
 
 ###
 
