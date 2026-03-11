@@ -18,6 +18,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,11 +42,17 @@
 
 ###
 
+
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PraManGit17&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ###
+
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/manjrekar_pratham17/" target="_blank">
