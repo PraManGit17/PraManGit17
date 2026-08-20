@@ -45,9 +45,9 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=PraManGit17&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 
